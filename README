@@ -1,0 +1,10 @@
+We are going to build a website for the Anime Club in SWUFE. At present they do not have a website to present their achievement in all kinds of competitions, such as ChinaJoy, Animation Festival in western China. Because of a great demand of cosers(角色扮演者), they need a website to put their wanted ads. Besides, this website will be a very good platform to share anime resources. 
+
+Outline or list of basic parts for the site and possible modules.
+主页：Views collection
+掠影：Presenting their achievement in all kinds of competitions
+漫坛动态：Updating the latest news about the anime
+活动与招新：Putting wanted ads and activity information
+关于与田：Introdution of the club
+论坛：A forum where users can discuss the themes they are interested in.
+与田专区：A place where the members of this club can use the key to enroll a group(like the groups in language-corner).
